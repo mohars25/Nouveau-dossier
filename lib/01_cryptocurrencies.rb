@@ -1,4 +1,3 @@
-# Liste des cryptos et leurs valeurs
 noms_crypto =   ["Bitcoin", "Ethereum", "XRP", "Bitcoin Cash", "EOS", "Litecoin", "Cardano", "Stellar"]
 valeurs_crypto = ["6558.07", "468.95", "0.487526", "762.84", "8.86", "85.26", "0.151268", "0.206756"]
 
